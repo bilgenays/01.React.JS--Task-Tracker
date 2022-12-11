@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "React Çalışılacak",
+      "day": "Dec 11th at 7:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Kiddy Daily Meeting",
+      "day": "Everday at 11:30am",
+      "reminder": true
+    },
+    {
+      "text": "Kiddy Tech Meeting",
+      "day": "Every Thursday at 11:45am",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Wake Up",
+      "day": "Everyday at 06:00am",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
